@@ -200,7 +200,6 @@ article ul {
 
 #contact {
     padding: 10px;
-    border-top: 4px var(--dgrey) solid;
     border-bottom: 4px var(--red) solid;
     background-color: var(--clean);
 }
@@ -329,6 +328,10 @@ footer a:hover {
     border-bottom: 2px solid var(--red);
 }
 
+#portfolio {
+    padding: 4rem 1rem 10rem 1rem;
+}
+
 #portfolio h2 {
     padding: 2rem 0 0 0;
     color: var(--red);
@@ -342,7 +345,7 @@ footer a:hover {
 
 #portfolio .blackbox {
     background-color: var(--red);
-    box-shadow: 10px 5px 5px var(--dgrey);
+    box-shadow: 5px 0px 5px var(--dgrey);
 }
 
 #portfolio .right-img {
