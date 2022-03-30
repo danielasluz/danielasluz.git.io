@@ -352,6 +352,6 @@ footer a:hover {
     margin: 2rem 0 4rem 0;
     border-left: 1px solid var(--dgrey);
     border-top: 1px solid var(--dgrey);
-    border-radius: 38px;
+    border-radius: 50px;
     padding: 1rem;
 }
